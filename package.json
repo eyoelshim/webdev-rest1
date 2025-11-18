@@ -3,12 +3,23 @@
     "description": "REST Server",
     "version": "1.0.0",
     "author": {
-        "name": "",
-        "email": ""
+        "name": "Eyoel Woldehawariat",
+        "email": "wold1048@stthomas.edu"
     },
     "contributors": [
+        {
+            "name": "Abdiwahad Mohammud",
+            "email": "moha5139@stthomas.edu"
+        },
+        {
+            "name": "Braden Shaffa",
+            "email": "shaf2205@stthomas.edu"
+        }
     ],
-    "repository": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eyoelshim/webdev-rest1"
+    },
     "dependencies": {
         "express": "^4.18.2",
         "sqlite3": "^5.1.6"
